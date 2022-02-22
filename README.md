@@ -17,4 +17,4 @@ For any queries, please send an email to ochiengphillip84@gmail.com
 ### License
 Copyright(c) 2022 The App Kitchen. 
 This website is licensed under the terms of the MIT license.
-Check out the full licence [here](copyright.html)
+Check out the full licence [here](https://choosealicense.com/licenses/mit/)
