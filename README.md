@@ -1,7 +1,7 @@
 # MY FIRST WEBSITE
 #### This is the first website I have made in Moringa School, 22nd February 2022
 #### By **Phillip Okeyo**
-<img src="">
+
 ## Setup/Installation Requirements
 *Internet connection
 *Computer device
