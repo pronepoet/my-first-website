@@ -1,13 +1,10 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
-## Description
-This is the first website I have made in Moringa School
+# MY FIRST WEBSITE
+#### This is the first website I have made in Moringa School, 22nd February 2022
+#### By **Phillip Okeyo**
 ## Setup/Installation Requirements
 *Internet connection
 *Computer device
 Just click on the link and you're good to go.
-
 ## Known Bugs
 None
 ## Technologies Used
@@ -17,4 +14,4 @@ Ochieng Phillip Okeyo
 For any queries, please send an email to ochiengphillip84@gmail.com
 +254719177639
 ### License
-The App Kitchen. Copyright(c) 2022 
+Copyright(c) 2022 The App Kitchen. 
