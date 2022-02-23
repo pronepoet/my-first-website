@@ -2,19 +2,19 @@ h1 {
     color: blue;
     text-align: center;
   }
-  h2 {
+h2 {
     color: green;
     font-style: italic;
     text-align: center;
   }
-  p {
+p {
     font-family: sans-serif;
     color:gray;
   }
-  ul {
+ul {
     line-height: 40px;
     color:gray;
   }
-  ol {
-      color:cadetblue;
-  }
+ol {
+    color:cadetblue;
+}
